@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<databaseChangeLog
+  xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+                      http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+  <include file="wk5/apex/new2/f100.sql"/> 
+  <include file="wk5/apex/new2/f106.sql"/> 
+  <include file="wk5/apex/new2/f109.sql"/> 
+  <include file="wk5/apex/new2/f108.sql"/> 
+  <include file="wk5/apex/new2/f112.sql"/> 
+  <include file="wk5/apex/new2/f107.sql"/> 
+  <include file="wk5/apex/new2/f101.sql"/> 
+  <include file="wk5/apex/new2/f111.sql"/> 
+  <include file="controller.xml"/> 
+</databaseChangeLog> 
